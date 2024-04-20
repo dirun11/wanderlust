@@ -43,6 +43,7 @@ node -v # should print `v21.7.3`
 # verifies the right NPM version is in the environment
 npm -v # should print `10.5.0`
 
+
    ```bash
    npm i
    ```
